@@ -1,0 +1,17 @@
+----> 22:38:23 Fri May 21 olli@dell15 ~/bin/cpp/geekbrains/homework4/build
+$ ./homework4 
+Enter integer 4
+Enter integer 10
+Cумма в заданном диапазоне 10..20 включительно: true
+Введите число больше 1 5
+Число 5 является натуральным.
+e=10,f=10
+и 'e' и 'f' равны десяти или их сумма равна 10 - истина
+Введите год: 2020
+2020 год високосный
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+----> 22:39:02 Fri May 21 olli@dell15 ~/bin/cpp/geekbrains/homework4/build
+$ 

@@ -1,3 +1,6 @@
+build/*
+src/.homework4.cpp.swp
+
 # Prerequisites
 *.d
 
